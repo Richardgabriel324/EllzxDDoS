@@ -1,8 +1,8 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.5 - Free DDoS Panel 🚀
+# 🚀 EllzxDdos: Release v1.5 - Free DDoS Panel 🚀
 
-# Store: https://condi.billgang.store/
+# Telegram : travatxt
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -12,8 +12,8 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
+> Username: ellzx<br>
+> Password: ellzx<br>
 <p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
